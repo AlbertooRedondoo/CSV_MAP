@@ -9,6 +9,7 @@ Visualizador interactivo en 3D de las estaciones del sistema de bicicletas públ
 **Vídeo y dirección del proyecto:**
 
 https://drive.google.com/file/d/1hcbR6MwaUOXc1toQgjwP0-X0s40r1SsX/view?usp=sharing
+
 https://codesandbox.io/p/sandbox/ig2526-s8-forked-x39z23
 
 ---
