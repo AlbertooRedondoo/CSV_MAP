@@ -5,6 +5,7 @@
 Visualizador interactivo en 3D de las estaciones del sistema de bicicletas públicas **Sitycleta** de Las Palmas de Gran Canaria. El proyecto utiliza **Three.js** para renderizar un mapa georreferenciado con marcadores esféricos que representan cada estación, permitiendo búsqueda, selección y navegación fluida.
 
 **Autor:** Alberto Redondo Álvarez de Sotomayor
+
 **Vídeo y dirección del proyecto:**
 https://drive.google.com/file/d/1hcbR6MwaUOXc1toQgjwP0-X0s40r1SsX/view?usp=sharing
 https://codesandbox.io/p/sandbox/ig2526-s8-forked-x39z23
